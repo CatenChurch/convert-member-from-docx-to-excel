@@ -1,0 +1,8 @@
+{
+  "editor.formatOnSave": true,
+  "[ruby]": {
+    "editor.defaultFormatter": "misogi.ruby-rubocop"
+  },
+  "ruby.codeCompletion": "rcodetools",
+  "ruby.intellisense": "rubyLocate"
+}
